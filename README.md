@@ -8,3 +8,4 @@
 coolrip007/coolrip007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<Hello World> got at script and bat files from Dos days but fall in l,ove with Linux CLI etc
